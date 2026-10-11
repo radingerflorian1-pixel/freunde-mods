@@ -28,6 +28,19 @@
       "addedAt": "2026-10-11T09:43:29.164Z",
       "onAternos": true,
       "auto": false
+    },
+    {
+      "projectId": "hcLATe7l",
+      "title": "Simple Drills",
+      "file": "Fabric-SimpleDrills-1.5.jar",
+      "url": "https://cdn.modrinth.com/data/hcLATe7l/versions/bgbPC2st/Fabric-SimpleDrills-1.5.jar",
+      "sha512": "e173e88dbfdf15dc495554b133f8037b626e12ec5735d6e87ee5f272b78de48167c54482e48445122b224bd34b257ee4b4d872d39182b5e2dca75891736afea2",
+      "size": 80501,
+      "versionNumber": "1.5",
+      "addedBy": "radingerflorian1-pixel",
+      "addedAt": "2026-10-11T09:44:04.245Z",
+      "onAternos": false,
+      "auto": false
     }
   ]
 }
