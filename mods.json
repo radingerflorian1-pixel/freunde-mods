@@ -15,6 +15,19 @@
       "addedAt": "2026-10-11T09:43:08.797Z",
       "onAternos": true,
       "auto": false
+    },
+    {
+      "projectId": "9eGKb6K1",
+      "title": "Simple Voice Chat",
+      "file": "voicechat-fabric-1.20.1-2.6.22.jar",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/u5T0ji6n/voicechat-fabric-1.20.1-2.6.22.jar",
+      "sha512": "e6d6a23b9e94a47446d8f2797182031f2f1c7710dc9540e0e3a7fea17a4fa675ca9655dd49566cbacc4b033b8a4b289f545846fba63e280970d8efa34891c7d2",
+      "size": 5279173,
+      "versionNumber": "fabric-1.20.1-2.6.22",
+      "addedBy": "radingerflorian1-pixel",
+      "addedAt": "2026-10-11T09:43:29.164Z",
+      "onAternos": false,
+      "auto": false
     }
   ]
 }
